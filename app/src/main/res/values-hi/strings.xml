@@ -1,5 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources><string name="app_name">AndroidAssignments-ARYAN SHARMA</string>
+<resources>
+    <string name="app_name">AndroidAssignments-ARYAN SHARMA</string>
     <string name="hello_message">Namaste!</string>
     <string name="ButtonText">I\’m a button</string>
+    <string name="LoginText">Login</string>
+    <string name="LoginNameText">Login Name</string>
+    <string name="PasswordText">Password</string>
+    <string name="RadioText">Radio Button</string>
+    <string name="CheckBoxText">Check Box</string>
+    <string name="SwitchText">What does this do?</string>
     </resources>
